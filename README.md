@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Making abominations since 2019! (2021 Github)<br><br>🎯 Goals:<br>- ⚙️ Create at least 1 mod for: Minecraft, Mindustry<br>- 🌍 Make a github.io website<br>- 🕹 Update existing games<br>- 🛠 Make some new shit</p>
+<p align="left">✨ Making abominations since 2019! (2021 Github)<br><br>🎯 Goals: (old list for 2024, update soon)<br>- ⚙️ Create at least 1 mod for: Minecraft, Mindustry<br>- 🌍 Make a github.io website<br>- 🕹 Update existing games<br>- 🛠 Make some new shit</p>
 
 ###
 
